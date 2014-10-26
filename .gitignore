@@ -24,3 +24,12 @@ proguard/
 
 # Log Files
 *.log
+
+# Eclipse project files
+.classpath
+.project
+
+# Android Studio files
+.idea/
+*.iml
+
